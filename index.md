@@ -30,4 +30,4 @@ SLAM • SfM • VIO • VPS
 ---
 
 ## Links
-[CV](#) • [GitHub](https://github.com/AzizaZhanabatyrova) • [LinkedIn](#) • [Google Scholar](#)
+[CV](Aziza_CV_2026.pdf) • [GitHub](https://github.com/AzizaZhanabatyrova) • [LinkedIn](https://www.linkedin.com/in/azizazhanabatyrova?utm_source=share_via&utm_content=profile&utm_medium=member_ios) • [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2mTrGJMAAAAJ)
