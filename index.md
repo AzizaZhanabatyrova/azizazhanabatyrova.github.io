@@ -1,4 +1,3 @@
-# Aziza Zhanabatyrova
 SLAM & Computer Vision Engineer  
 3D Mapping • Visual Localization • Perception Systems
 
