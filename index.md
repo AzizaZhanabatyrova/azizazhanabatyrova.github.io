@@ -4,7 +4,7 @@ SLAM & Computer Vision Engineer
 ---
 
 ## About Me
-<img src="IMG_3004.jpeg" alt="Profile photo" width="250" style="border-radius:50%; display:block; margin:auto;">
+<img src="IMG_3004.jpeg" alt="Profile photo" width="150" align=“right” style="margin:10%; display:block; margin:auto;">
 
 I build perception and mapping systems for autonomous robots and AR/VR applications.
 My work focuses on SLAM, 3D semantic mapping, change detection, and visual localization.
