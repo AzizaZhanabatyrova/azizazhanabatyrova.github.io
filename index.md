@@ -5,7 +5,7 @@ SLAM & Computer Vision Engineer
 
 ## About Me
 <p align="right">
-  <img src="IMG_3005.jpeg" alt="Profile photo" width="150" style="float:right; margin:0 0 20px 20px; border-radius:0%;"> 
+  <img src="IMG_3005.jpeg" alt="Profile photo" width="100" style="float:right; margin:0 0 20px 20px; border-radius:0%;"> 
 </p>
 
 
