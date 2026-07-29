@@ -14,7 +14,8 @@ My work focuses on SLAM, 3D semantic mapping, change detection, and visual local
 ## Featured Projects
 - **Visual Localization Prototype** — Relocalization under appearance change  
 - **3D Semantic Mapping Demo** — SLAM + segmentation + change detection  
-- **UAV Perception Modules** — Sensor fusion + autonomy stack  
+- **UAV Perception Modules** — Sensor fusion + autonomy stack
+- [Robotics pipeline design](system-design.md)
 
 ---
 
